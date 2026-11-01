@@ -433,3 +433,4 @@ This application is configured for deployment on Render as a Web Service:
 
 ### Q25: What is the purpose of Git and GitHub?
 **Answer:** Git is a distributed version control system that tracks source code changes across time and allows branching. GitHub is a cloud-based hosting service for Git repositories that enables collaboration, code reviews, and automated CI/CD deployment pipelines.
+
