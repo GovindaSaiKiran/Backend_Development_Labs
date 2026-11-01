@@ -1,0 +1,28 @@
+{
+  "name": "bdf-lab-02",
+  "version": "1.0.0",
+  "description": "BDF Lab 02 - SQLite Database and CRUD Routes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "express",
+    "sqlite",
+    "crud",
+    "bdf",
+    "lab-02"
+  ],
+  "author": "TANINKI GOVINDA SAI KIRAN (252U1R8092)",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.16.0"
+  }
+}
