@@ -4,8 +4,8 @@
 > **API Books Endpoint:** [https://bdf-lab-03-dsxp.onrender.com/books](https://bdf-lab-03-dsxp.onrender.com/books)
 
 ## Student Information
-- **Student Name:** TANINKI GOVINDA SAI KIRAN / Latchipatruni Charan Teja
-- **Registration Number:** 252U1R8092 / 252U1R8045
+- **Student Name:** TANINKI GOVINDA SAI KIRAN 
+- **Registration Number:** 252U1R8092 
 - **Course:** Backend Development Fundamentals (BDF)
 - **Institution:** Aurora Deemed to be University
 
