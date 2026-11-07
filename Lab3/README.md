@@ -283,17 +283,36 @@ Use the following checklist to run your Postman collection and save screenshots 
 
 ### Success Tests
 - [ ] **01_get_books.png** — `GET http://localhost:3000/books` → `200 OK`
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/f4b01955-12c9-45b5-b92b-f4bbbe2a4d1c" />
+
 - [ ] **02_get_book_by_id.png** — `GET http://localhost:3000/books/1` → `200 OK`
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/d5e79c77-5f99-40a7-8e11-ffc77a292261" />
+
 - [ ] **03_post_success.png** — `POST http://localhost:3000/books` (valid body) → `201 Created`
+      <img width="1910" height="1012" alt="image" src="https://github.com/user-attachments/assets/6e42ea3f-ef22-4a02-80cd-5519025dae59" />
+
 - [ ] **05_search.png** — `GET http://localhost:3000/books?search_q=python` → `200 OK`
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/7c972814-3b5b-4229-af8a-c2c6a598ebba" />
+
 - [ ] **06_sort.png** — `GET http://localhost:3000/books?order_by=price&order=DESC` → `200 OK`
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/2fe58a5f-4224-4c6c-9cd7-65e6ded34fe8" />
+
 - [ ] **07_pagination.png** — `GET http://localhost:3000/books?limit=3&offset=0` → `200 OK`
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/b2d73e08-b213-4967-b9d5-7d8f422c494d" />
+
 - [ ] **08_price_filter.png** — `GET http://localhost:3000/books?min_price=300&max_price=500` → `200 OK`
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/529fc90f-57dc-47d7-b53d-14562fdc978a" />
+
 - [ ] **10_put_success.png** — `PUT http://localhost:3000/books/1` → `200 OK`
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/50290fe0-5515-429f-a612-90841b45d39b" />
+
 - [ ] **11_delete_success.png** — `DELETE http://localhost:3000/books/1` → `200 OK`
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/73cb7e4c-1428-4ec4-a121-208d7c60a0eb" />
+
 
 ### Failure & Validation Tests
 - [ ] **04_post_validation_400.png** — `POST http://localhost:3000/books` (missing/non-numeric price) → `400 Bad Request`
+
 - [ ] **09_not_found_404.png** — `GET http://localhost:3000/books/999` → `404 Not Found`
 - [ ] `PUT /books/999` → `404 Not Found`
 - [ ] `DELETE /books/999` → `404 Not Found`
