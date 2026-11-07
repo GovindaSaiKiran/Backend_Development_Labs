@@ -314,6 +314,12 @@ Use the following checklist to run your Postman collection and save screenshots 
 - [ ] **04_post_validation_400.png** — `POST http://localhost:3000/books` (missing/non-numeric price) → `400 Bad Request`
 
 - [ ] **09_not_found_404.png** — `GET http://localhost:3000/books/999` → `404 Not Found`
+<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/84e194e1-3e90-425b-8eb0-d5706891df3f" />
+
 - [ ] `PUT /books/999` → `404 Not Found`
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/70e714d5-d3b1-4065-bb23-0aca6edec9cb" />
+
 - [ ] `DELETE /books/999` → `404 Not Found`
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/c9d5be41-b605-43ae-ba2e-ab1da6de762d" />
+
 
