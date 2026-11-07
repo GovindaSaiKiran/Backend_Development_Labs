@@ -15,6 +15,7 @@ Course repository for **Backend Development Fundamentals (BDF)** at **Aurora Dee
 |:---:|---|:---:|:---:|:---:|
 | **01** | **Node.js and Express Server** | [`lab-01/`](./lab-01/) | [bdf-lab-01-tv0i.onrender.com](https://bdf-lab-01-tv0i.onrender.com) | **Completed & Live** |
 | **02** | **SQLite Database and CRUD Routes** | [`lab-02/`](./lab-02/) | [backend-development-fundamentals-1-fzeu.onrender.com](https://backend-development-fundamentals-1-fzeu.onrender.com) | **Completed & Live** |
+| **03** | **RESTful Books API with Filtering & Sorting** | [`Lab3/`](./Lab3/) | [bdf-lab-03-dsxp.onrender.com](https://bdf-lab-03-dsxp.onrender.com) | **Completed & Live** |
 
 ---
 
@@ -29,3 +30,8 @@ Course repository for **Backend Development Fundamentals (BDF)** at **Aurora Dee
 - Express.js application connected to SQLite database (`database/books.db`).
 - Complete RESTful CRUD routing (`GET /books/`, `GET /books/:bookId/`, `POST /books/`, `PUT /books/:bookId/`, `DELETE /books/:bookId/`).
 - Database populated with 10 sample books and full verification screenshots in [`lab-02/`](./lab-02/).
+
+#### Lab 03: RESTful Books API with Filtering, Sorting & Pagination
+- Express.js and SQLite RESTful API implementing complete CRUD for `/books`.
+- Advanced query parameters: partial title search (`search_q`), column sorting (`order_by`, `order`), pagination (`limit`, `offset`), and price range filtering (`min_price`, `max_price`, `BETWEEN`).
+- Strict request validation with JSON errors, parameterized queries, and 18 automated test cases in [`Lab3/`](./Lab3/).

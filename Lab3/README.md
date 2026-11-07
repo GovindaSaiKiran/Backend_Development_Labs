@@ -3,6 +3,12 @@
 > **Live Deployment:** [https://bdf-lab-03-dsxp.onrender.com](https://bdf-lab-03-dsxp.onrender.com)  
 > **API Books Endpoint:** [https://bdf-lab-03-dsxp.onrender.com/books](https://bdf-lab-03-dsxp.onrender.com/books)
 
+## Student Information
+- **Student Name:** TANINKI GOVINDA SAI KIRAN / Latchipatruni Charan Teja
+- **Registration Number:** 252U1R8092 / 252U1R8045
+- **Course:** Backend Development Fundamentals (BDF)
+- **Institution:** Aurora Deemed to be University
+
 ## Objective
 
 Build a RESTful Books API using **Node.js, Express.js, and SQLite** supporting full CRUD operations, parameterized SQL queries, query parameters (search, sorting, pagination, price-range filtering), robust request validation, correct HTTP status codes, and consistent JSON responses.
