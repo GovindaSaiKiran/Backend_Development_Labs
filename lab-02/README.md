@@ -1,8 +1,8 @@
 # Lab 2: SQLite database and CRUD routes
 
 ### Student Details
-- **Student Name:** Latchipatruni Charan Teja / TANINKI GOVINDA SAI KIRAN
-- **Registration Number:** 252U1R8045 / 252U1R8092
+- **Student Name: TANINKI GOVINDA SAI KIRAN
+- **Registration Number: 252U1R8092
 - **Class:** B.Tech CSE(QE) – 2B
 - **Section:** S-13 204 (CSE-QE-2B)
 - **Course:** Backend Development Fundamentals (BDF)
